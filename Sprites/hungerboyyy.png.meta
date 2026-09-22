@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 23f5311effadaaa4f8de074aa73c0a92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2987133736371648064
+    second: hungerboyyy_0
+  - first:
+      213: -2134422024575262198
+    second: hungerboyyy_1
+  - first:
+      213: 5720431630500620095
+    second: hungerboyyy_2
+  - first:
+      213: -6349283891884785837
+    second: hungerboyyy_3
+  - first:
+      213: 740883948194679944
+    second: hungerboyyy_4
+  - first:
+      213: 282356310259657997
+    second: hungerboyyy_5
+  - first:
+      213: -3734435787655255466
+    second: hungerboyyy_6
+  - first:
+      213: -1970043270581675924
+    second: hungerboyyy_7
+  - first:
+      213: -1853649220704843871
+    second: hungerboyyy_8
+  - first:
+      213: -3459093049655570909
+    second: hungerboyyy_9
+  - first:
+      213: -8955855226627430720
+    second: hungerboyyy_10
+  - first:
+      213: 9057746014759324435
+    second: hungerboyyy_11
+  - first:
+      213: -8771660052717660713
+    second: hungerboyyy_12
+  - first:
+      213: -1459891073856045265
+    second: hungerboyyy_13
+  - first:
+      213: 3162891329367734514
+    second: hungerboyyy_14
+  - first:
+      213: -3286014817365301735
+    second: hungerboyyy_15
+  - first:
+      213: -3100977442743607279
+    second: hungerboyyy_16
+  - first:
+      213: -3715511118986073937
+    second: hungerboyyy_17
+  - first:
+      213: 6971033891712957639
+    second: hungerboyyy_18
+  - first:
+      213: 2349313741266227854
+    second: hungerboyyy_19
+  - first:
+      213: 8275381494500505516
+    second: hungerboyyy_20
+  - first:
+      213: -8015669922534464963
+    second: hungerboyyy_21
+  - first:
+      213: -7100250944770988634
+    second: hungerboyyy_22
+  - first:
+      213: 6117962829139020992
+    second: hungerboyyy_23
+  - first:
+      213: 9040263633933566697
+    second: hungerboyyy_24
+  - first:
+      213: -272873779264160147
+    second: hungerboyyy_25
+  - first:
+      213: 6989127490020736131
+    second: hungerboyyy_26
+  - first:
+      213: -4379430715875089214
+    second: hungerboyyy_27
+  - first:
+      213: 3603721744233600888
+    second: hungerboyyy_28
+  - first:
+      213: -5841963983915449625
+    second: hungerboyyy_29
+  - first:
+      213: -1625647418916872695
+    second: hungerboyyy_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HungerBoy_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 532
+        width: 80
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04674058e4e647920800000000000000
+      internalID: 2987133736371648064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 531
+        width: 70
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02eb603a720162e0800000000000000
+      internalID: -2134422024575262198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 531
+        width: 70
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e5e1824e036f40800000000000000
+      internalID: 5720431630500620095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 531
+        width: 70
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff816b0ffc2e7a0800000000000000
+      internalID: -6349283891884785837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 532
+        width: 88
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ccee78606284a00800000000000000
+      internalID: 740883948194679944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 531
+        width: 133
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ded1571912be300800000000000000
+      internalID: 282356310259657997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 355
+        width: 80
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec14ac235deffc0800000000000000
+      internalID: -3459093049655570909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 356
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6eb0d1f1966b380800000000000000
+      internalID: -8955855226627430720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 85
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b807ba20493bd70800000000000000
+      internalID: 9057746014759324435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 355
+        width: 88
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5974308adc44680800000000000000
+      internalID: -8771660052717660713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 355
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ffb0c9dcc6dbbe0800000000000000
+      internalID: -1459891073856045265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_14
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 355
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8702608e8d4eb20800000000000000
+      internalID: 3162891329367734514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Eat_01
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 168
+        width: 80
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91665440feab562d0800000000000000
+      internalID: -3286014817365301735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Eat_02
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 73
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a4cc027d17f4d0800000000000000
+      internalID: -3100977442743607279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Eat_03
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 80
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa822d9a25adf6cc0800000000000000
+      internalID: -3715511118986073937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 182
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e821e1686607a9020800000000000000
+      internalID: 2349313741266227854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_20
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 181
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca73b88df9f08d270800000000000000
+      internalID: 8275381494500505516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_21
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 182
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ec8e9cae92c090800000000000000
+      internalID: -8015669922534464963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_22
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 185
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52bcc6267d67d90800000000000000
+      internalID: -7100250944770988634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Death_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 105
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc00eb57ce57e450800000000000000
+      internalID: 6117962829139020992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Death_01
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 83
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e20e70b0e7757d70800000000000000
+      internalID: 9040263633933566697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hungerboyyy_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 28
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef0765ebe863cf0800000000000000
+      internalID: -272873779264160147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Dash_01
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 27
+        width: 150
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7a941c6e5ef060800000000000000
+      internalID: 6989127490020736131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Run_01
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 27
+        width: 113
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a4d597f22933c0800000000000000
+      internalID: -4379430715875089214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Run_02
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 28
+        width: 109
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877156245ddf20230800000000000000
+      internalID: 3603721744233600888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Run_03
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 27
+        width: 109
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2081c65bc2deea0800000000000000
+      internalID: -5841963983915449625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HungerBoy_Run_04
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 26
+        width: 127
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90edd69194a8079e0800000000000000
+      internalID: -1625647418916872695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96184611731d4cb43944cbb489997f75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HungerBoy_Attack_01: 740883948194679944
+      HungerBoy_Attack_02: 282356310259657997
+      HungerBoy_Dash_01: 6989127490020736131
+      HungerBoy_Death_01: 9040263633933566697
+      HungerBoy_Death_02: 6117962829139020992
+      HungerBoy_Eat_01: -3286014817365301735
+      HungerBoy_Eat_02: -3100977442743607279
+      HungerBoy_Eat_03: -3715511118986073937
+      HungerBoy_Idle_01: 2987133736371648064
+      HungerBoy_Idle_02: -2134422024575262198
+      HungerBoy_Idle_03: 5720431630500620095
+      HungerBoy_Idle_04: -6349283891884785837
+      HungerBoy_Run_01: -4379430715875089214
+      HungerBoy_Run_02: 3603721744233600888
+      HungerBoy_Run_03: -5841963983915449625
+      HungerBoy_Run_04: -1625647418916872695
+      hungerboyyy_10: -8955855226627430720
+      hungerboyyy_11: 9057746014759324435
+      hungerboyyy_12: -8771660052717660713
+      hungerboyyy_13: -1459891073856045265
+      hungerboyyy_14: 3162891329367734514
+      hungerboyyy_18: 6971033891712957639
+      hungerboyyy_19: 2349313741266227854
+      hungerboyyy_20: 8275381494500505516
+      hungerboyyy_21: -8015669922534464963
+      hungerboyyy_22: -7100250944770988634
+      hungerboyyy_25: -272873779264160147
+      hungerboyyy_6: -3734435787655255466
+      hungerboyyy_7: -1970043270581675924
+      hungerboyyy_8: -1853649220704843871
+      hungerboyyy_9: -3459093049655570909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: cc7a26735de9031469af00175504980a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7512263872309043450
+    second: gamefooddrm_0
+  - first:
+      213: 4271232046599302374
+    second: gamefooddrm_1
+  - first:
+      213: -4629538854000786673
+    second: gamefooddrm_2
+  - first:
+      213: 5523572810473195753
+    second: gamefooddrm_3
+  - first:
+      213: -8470349707325433122
+    second: gamefooddrm_4
+  - first:
+      213: -7770785490316804050
+    second: gamefooddrm_5
+  - first:
+      213: 9189329821145527677
+    second: gamefooddrm_6
+  - first:
+      213: 7691360518850904569
+    second: gamefooddrm_7
+  - first:
+      213: -2464539785544119928
+    second: gamefooddrm_8
+  - first:
+      213: 3127520910489174083
+    second: gamefooddrm_9
+  - first:
+      213: -8801096263332996099
+    second: gamefooddrm_10
+  - first:
+      213: -3121743579984320672
+    second: gamefooddrm_11
+  - first:
+      213: 1993954290905434367
+    second: gamefooddrm_12
+  - first:
+      213: -2031374596994179602
+    second: gamefooddrm_13
+  - first:
+      213: -4691582308825560585
+    second: gamefooddrm_14
+  - first:
+      213: 4177262674625543650
+    second: gamefooddrm_15
+  - first:
+      213: -2822188012536855236
+    second: gamefooddrm_16
+  - first:
+      213: 2422909780229062046
+    second: gamefooddrm_17
+  - first:
+      213: 6804949789384985867
+    second: gamefooddrm_18
+  - first:
+      213: 8254541007600481704
+    second: gamefooddrm_19
+  - first:
+      213: -528245269135431851
+    second: gamefooddrm_20
+  - first:
+      213: 6976204339516472456
+    second: gamefooddrm_21
+  - first:
+      213: -8015695357463389171
+    second: gamefooddrm_22
+  - first:
+      213: 3977079950330416817
+    second: gamefooddrm_23
+  - first:
+      213: -3822571471686061896
+    second: gamefooddrm_24
+  - first:
+      213: -4599977110023386014
+    second: gamefooddrm_25
+  - first:
+      213: -2516234391325418641
+    second: gamefooddrm_26
+  - first:
+      213: -927229922282592413
+    second: gamefooddrm_27
+  - first:
+      213: 1934100211512111752
+    second: gamefooddrm_28
+  - first:
+      213: 1639717294461258115
+    second: gamefooddrm_29
+  - first:
+      213: 490164838493246251
+    second: gamefooddrm_30
+  - first:
+      213: -8637015121307881321
+    second: gamefooddrm_31
+  - first:
+      213: -9187642996735618776
+    second: gamefooddrm_32
+  - first:
+      213: 70618654979212912
+    second: gamefooddrm_33
+  - first:
+      213: 6395288637074857250
+    second: gamefooddrm_34
+  - first:
+      213: 8765940066731071301
+    second: gamefooddrm_35
+  - first:
+      213: 5093775959197959689
+    second: gamefooddrm_36
+  - first:
+      213: -6254963742253333797
+    second: gamefooddrm_37
+  - first:
+      213: 6867151698853108263
+    second: gamefooddrm_38
+  - first:
+      213: 1487253573321049106
+    second: gamefooddrm_39
+  - first:
+      213: -2930949724356427776
+    second: gamefooddrm_40
+  - first:
+      213: 7129971473720647213
+    second: gamefooddrm_41
+  - first:
+      213: -7141779647452557941
+    second: gamefooddrm_42
+  - first:
+      213: 8905702336110443496
+    second: gamefooddrm_43
+  - first:
+      213: -2506474258203996990
+    second: gamefooddrm_44
+  - first:
+      213: -8784775172344769971
+    second: gamefooddrm_45
+  - first:
+      213: -8973215276680656075
+    second: gamefooddrm_46
+  - first:
+      213: 203576783273616254
+    second: gamefooddrm_47
+  - first:
+      213: 1472597227690360098
+    second: gamefooddrm_48
+  - first:
+      213: 6077614668055024624
+    second: gamefooddrm_49
+  - first:
+      213: -8157960676433155948
+    second: gamefooddrm_50
+  - first:
+      213: 8401274721272214535
+    second: gamefooddrm_51
+  - first:
+      213: 6047324412748846373
+    second: gamefooddrm_52
+  - first:
+      213: 804444958001376218
+    second: gamefooddrm_53
+  - first:
+      213: -5072261180826800855
+    second: gamefooddrm_54
+  - first:
+      213: 5975195425956232664
+    second: gamefooddrm_55
+  - first:
+      213: -6264320918596541118
+    second: gamefooddrm_56
+  - first:
+      213: 297378444958091324
+    second: gamefooddrm_57
+  - first:
+      213: -3968190346831700813
+    second: gamefooddrm_58
+  - first:
+      213: -7117294940197057499
+    second: gamefooddrm_59
+  - first:
+      213: 5730087532405070684
+    second: gamefooddrm_60
+  - first:
+      213: -5613631497637589089
+    second: gamefooddrm_61
+  - first:
+      213: -89753855987873066
+    second: gamefooddrm_62
+  - first:
+      213: 3822849398588818800
+    second: gamefooddrm_63
+  - first:
+      213: 1632733146957949060
+    second: gamefooddrm_64
+  - first:
+      213: 2881484385605639664
+    second: gamefooddrm_65
+  - first:
+      213: 3991542986847747014
+    second: gamefooddrm_66
+  - first:
+      213: -7272484708449815636
+    second: gamefooddrm_67
+  - first:
+      213: -3790046697489013635
+    second: gamefooddrm_68
+  - first:
+      213: 2992569056445593018
+    second: gamefooddrm_69
+  - first:
+      213: -2708332944361911844
+    second: gamefooddrm_70
+  - first:
+      213: -1904438935835225060
+    second: gamefooddrm_71
+  - first:
+      213: 5242201845425013975
+    second: gamefooddrm_72
+  - first:
+      213: -2000634842251757024
+    second: gamefooddrm_73
+  - first:
+      213: 372459426144793677
+    second: gamefooddrm_74
+  - first:
+      213: 4896301826450405854
+    second: gamefooddrm_75
+  - first:
+      213: -1217618461838845370
+    second: gamefooddrm_76
+  - first:
+      213: -9051167236972613419
+    second: gamefooddrm_77
+  - first:
+      213: -5602976961151770374
+    second: gamefooddrm_78
+  - first:
+      213: 4081523996764389609
+    second: gamefooddrm_79
+  - first:
+      213: 640670471712458095
+    second: gamefooddrm_80
+  - first:
+      213: 6853860745360031024
+    second: gamefooddrm_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamefooddrm_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 679
+        width: 281
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af02bffa03ce04860800000000000000
+      internalID: 7512263872309043450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 679
+        width: 158
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ece0da9ae6764b30800000000000000
+      internalID: 4271232046599302374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 679
+        width: 238
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f030a6dc0f290cfb0800000000000000
+      internalID: -4629538854000786673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 692
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c24bb43ca7ac40800000000000000
+      internalID: 5523572810473195753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 678
+        width: 224
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda988ba1d5437a80800000000000000
+      internalID: -8470349707325433122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_5
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 679
+        width: 231
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2048e794cf982490800000000000000
+      internalID: -7770785490316804050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 575
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75784109ce078f70800000000000000
+      internalID: 9189329821145527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 574
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1829d24a33dba60800000000000000
+      internalID: 7691360518850904569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88943db6f123ccdd0800000000000000
+      internalID: -2464539785544119928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 575
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404051a2bf276b20800000000000000
+      internalID: 3127520910489174083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 575
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd40624993cd580800000000000000
+      internalID: -8801096263332996099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 575
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ad23f0c65da4d0800000000000000
+      internalID: -3121743579984320672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 575
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8c8c7fcd2fbab10800000000000000
+      internalID: 1993954290905434367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 575
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd864119b1fc3e0800000000000000
+      internalID: -2031374596994179602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_14
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 574
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f902f74fb624eeb0800000000000000
+      internalID: -4691582308825560585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_15
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 574
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbd8e354e98f930800000000000000
+      internalID: 4177262674625543650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_16
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 574
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35006784f295d8d0800000000000000
+      internalID: -2822188012536855236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_17
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 575
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d7f55ab97ef9120800000000000000
+      internalID: 2422909780229062046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 540
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d49ae77c9007e50800000000000000
+      internalID: 6804949789384985867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 455
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5fbeddf450e8270800000000000000
+      internalID: 8254541007600481704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 454
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e6eaf9bb4ba8f0800000000000000
+      internalID: -528245269135431851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 454
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cfa61a2e470d060800000000000000
+      internalID: 6976204339516472456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 454
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c95a69a8782c090800000000000000
+      internalID: -8015695357463389171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 454
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec5c2b42d613730800000000000000
+      internalID: 3977079950330416817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 454
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b03c95df7f73fac0800000000000000
+      internalID: -3822571471686061896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 454
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc02ea0399920c0800000000000000
+      internalID: -4599977110023386014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 454
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5d65172a841dd0800000000000000
+      internalID: -2516234391325418641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_27
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 454
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ab316c41d123f0800000000000000
+      internalID: -927229922282592413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 454
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ff2325ed47da10800000000000000
+      internalID: 1934100211512111752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 454
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3898d64113271c610800000000000000
+      internalID: 1639717294461258115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_30
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 454
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d6c7d25a6dc600800000000000000
+      internalID: 490164838493246251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 416
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79034ce0288232880800000000000000
+      internalID: -8637015121307881321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 416
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d7786f5fee7080800000000000000
+      internalID: -9187642996735618776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 327
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764d84ea43eaf000800000000000000
+      internalID: 70618654979212912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 327
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d50f8b121a0c850800000000000000
+      internalID: 6395288637074857250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 327
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479ed7fb00e6a970800000000000000
+      internalID: 8765940066731071301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 327
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9064b653f3ab0b640800000000000000
+      internalID: 5093775959197959689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 326
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ca0cdd97e139a0800000000000000
+      internalID: -6254963742253333797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 326
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1cdc16160d4f50800000000000000
+      internalID: 6867151698853108263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 326
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144bb0ce39c3a410800000000000000
+      internalID: 1487253573321049106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 326
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000c43921cc2357d0800000000000000
+      internalID: -2930949724356427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_41
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 326
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e99c5774fb2f260800000000000000
+      internalID: 7129971473720647213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_42
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 326
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dc979df3d43ec90800000000000000
+      internalID: -7141779647452557941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_43
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 326
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebba3b1719679b70800000000000000
+      internalID: 8905702336110443496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_44
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 326
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc071921f6373dd0800000000000000
+      internalID: -2506474258203996990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 292
+        width: 161
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4218b44685361680800000000000000
+      internalID: -8784775172344769971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b475c7f3cb87380800000000000000
+      internalID: -8973215276680656075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 200
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e736a8b710043d200800000000000000
+      internalID: 203576783273616254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_48
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 200
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d75bd5067bf6410800000000000000
+      internalID: 1472597227690360098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 200
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f39f1b0756085450800000000000000
+      internalID: 6077614668055024624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 199
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a89dccf919ce80800000000000000
+      internalID: -8157960676433155948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_51
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 199
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70436edd8d2579470800000000000000
+      internalID: 8401274721272214535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 200
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525517763896ce350800000000000000
+      internalID: 6047324412748846373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_53
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 200
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adba60b5d66f92b00800000000000000
+      internalID: 804444958001376218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_54
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 200
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da0dc7455bb99b0800000000000000
+      internalID: -5072261180826800855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_55
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 199
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf8abf4982ce250800000000000000
+      internalID: 5975195425956232664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_56
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 199
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24521087059a019a0800000000000000
+      internalID: -6264320918596541118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_57
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 199
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c59fbe10802400800000000000000
+      internalID: 297378444958091324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 166
+        width: 149
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc56f767e72ee8c0800000000000000
+      internalID: -3968190346831700813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8edff5f94a3d90800000000000000
+      internalID: -7117294940197057499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b16ec504c558f40800000000000000
+      internalID: 5730087532405070684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 75
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0e5b25ef5812b0800000000000000
+      internalID: -5613631497637589089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 75
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da0f90f75121cef0800000000000000
+      internalID: -89753855987873066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_63
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 75
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c3b0164d7d0530800000000000000
+      internalID: 3822849398588818800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_64
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 75
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882f658522a8a610800000000000000
+      internalID: 1632733146957949060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_65
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 75
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fddbdd28c61df720800000000000000
+      internalID: 2881484385605639664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_66
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 75
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf2ccc23fc46730800000000000000
+      internalID: 3991542986847747014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_67
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 75
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3736e50b1f21b90800000000000000
+      internalID: -7272484708449815636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_68
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 75
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746602fb9c076bc0800000000000000
+      internalID: -3790046697489013635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_69
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 75
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f34793bdb78920800000000000000
+      internalID: 2992569056445593018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_70
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 75
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd902d559811a6ad0800000000000000
+      internalID: -2708332944361911844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 108
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c145e15c0e21295e0800000000000000
+      internalID: -1904438935835225060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_72
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 12
+        width: 97
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48475ddca00c840800000000000000
+      internalID: 5242201845425013975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_73
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 12
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a7056f5315c34e0800000000000000
+      internalID: -2000634842251757024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 18
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d443b9cefdd3b2500800000000000000
+      internalID: 372459426144793677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_75
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 18
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93ca6c19823f340800000000000000
+      internalID: 4896301826450405854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_76
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 18
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a532ec5762a1fe0800000000000000
+      internalID: -1217618461838845370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_77
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 19
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f7956a5bc36280800000000000000
+      internalID: -9051167236972613419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_78
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 18
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0e9d1c32a3e32b0800000000000000
+      internalID: -5602976961151770374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_79
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 18
+        width: 100
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0cf51437c74a830800000000000000
+      internalID: 4081523996764389609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_80
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 12
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c08c466e14e800800000000000000
+      internalID: 640670471712458095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamefooddrm_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 28
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dbd2bd80ecd1f50800000000000000
+      internalID: 6853860745360031024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gamefooddrm_0: 7512263872309043450
+      gamefooddrm_1: 4271232046599302374
+      gamefooddrm_10: -8801096263332996099
+      gamefooddrm_11: -3121743579984320672
+      gamefooddrm_12: 1993954290905434367
+      gamefooddrm_13: -2031374596994179602
+      gamefooddrm_14: -4691582308825560585
+      gamefooddrm_15: 4177262674625543650
+      gamefooddrm_16: -2822188012536855236
+      gamefooddrm_17: 2422909780229062046
+      gamefooddrm_18: 6804949789384985867
+      gamefooddrm_19: 8254541007600481704
+      gamefooddrm_2: -4629538854000786673
+      gamefooddrm_20: -528245269135431851
+      gamefooddrm_21: 6976204339516472456
+      gamefooddrm_22: -8015695357463389171
+      gamefooddrm_23: 3977079950330416817
+      gamefooddrm_24: -3822571471686061896
+      gamefooddrm_25: -4599977110023386014
+      gamefooddrm_26: -2516234391325418641
+      gamefooddrm_27: -927229922282592413
+      gamefooddrm_28: 1934100211512111752
+      gamefooddrm_29: 1639717294461258115
+      gamefooddrm_3: 5523572810473195753
+      gamefooddrm_30: 490164838493246251
+      gamefooddrm_31: -8637015121307881321
+      gamefooddrm_32: -9187642996735618776
+      gamefooddrm_33: 70618654979212912
+      gamefooddrm_34: 6395288637074857250
+      gamefooddrm_35: 8765940066731071301
+      gamefooddrm_36: 5093775959197959689
+      gamefooddrm_37: -6254963742253333797
+      gamefooddrm_38: 6867151698853108263
+      gamefooddrm_39: 1487253573321049106
+      gamefooddrm_4: -8470349707325433122
+      gamefooddrm_40: -2930949724356427776
+      gamefooddrm_41: 7129971473720647213
+      gamefooddrm_42: -7141779647452557941
+      gamefooddrm_43: 8905702336110443496
+      gamefooddrm_44: -2506474258203996990
+      gamefooddrm_45: -8784775172344769971
+      gamefooddrm_46: -8973215276680656075
+      gamefooddrm_47: 203576783273616254
+      gamefooddrm_48: 1472597227690360098
+      gamefooddrm_49: 6077614668055024624
+      gamefooddrm_5: -7770785490316804050
+      gamefooddrm_50: -8157960676433155948
+      gamefooddrm_51: 8401274721272214535
+      gamefooddrm_52: 6047324412748846373
+      gamefooddrm_53: 804444958001376218
+      gamefooddrm_54: -5072261180826800855
+      gamefooddrm_55: 5975195425956232664
+      gamefooddrm_56: -6264320918596541118
+      gamefooddrm_57: 297378444958091324
+      gamefooddrm_58: -3968190346831700813
+      gamefooddrm_59: -7117294940197057499
+      gamefooddrm_6: 9189329821145527677
+      gamefooddrm_60: 5730087532405070684
+      gamefooddrm_61: -5613631497637589089
+      gamefooddrm_62: -89753855987873066
+      gamefooddrm_63: 3822849398588818800
+      gamefooddrm_64: 1632733146957949060
+      gamefooddrm_65: 2881484385605639664
+      gamefooddrm_66: 3991542986847747014
+      gamefooddrm_67: -7272484708449815636
+      gamefooddrm_68: -3790046697489013635
+      gamefooddrm_69: 2992569056445593018
+      gamefooddrm_7: 7691360518850904569
+      gamefooddrm_70: -2708332944361911844
+      gamefooddrm_71: -1904438935835225060
+      gamefooddrm_72: 5242201845425013975
+      gamefooddrm_73: -2000634842251757024
+      gamefooddrm_74: 372459426144793677
+      gamefooddrm_75: 4896301826450405854
+      gamefooddrm_76: -1217618461838845370
+      gamefooddrm_77: -9051167236972613419
+      gamefooddrm_78: -5602976961151770374
+      gamefooddrm_79: 4081523996764389609
+      gamefooddrm_8: -2464539785544119928
+      gamefooddrm_80: 640670471712458095
+      gamefooddrm_81: 6853860745360031024
+      gamefooddrm_9: 3127520910489174083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
