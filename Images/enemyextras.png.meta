@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 28c571b08e1365b4daaab3fd1f947b3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4822761234220237487
+    second: enemyextras_0
+  - first:
+      213: 2837430058856957597
+    second: enemyextras_1
+  - first:
+      213: -6234172347288065983
+    second: enemyextras_2
+  - first:
+      213: -151597774392202584
+    second: enemyextras_3
+  - first:
+      213: -5908300357447359329
+    second: enemyextras_4
+  - first:
+      213: -2576717539447535509
+    second: enemyextras_5
+  - first:
+      213: 6766769356923466823
+    second: enemyextras_6
+  - first:
+      213: 889457211874489421
+    second: enemyextras_7
+  - first:
+      213: -3571816802457284434
+    second: enemyextras_8
+  - first:
+      213: 8335934400896690662
+    second: enemyextras_9
+  - first:
+      213: -6161136940680950961
+    second: enemyextras_10
+  - first:
+      213: 7484511000090407633
+    second: enemyextras_11
+  - first:
+      213: 2644628042868908560
+    second: enemyextras_12
+  - first:
+      213: -5211085465483376564
+    second: enemyextras_13
+  - first:
+      213: 8443922453917774635
+    second: enemyextras_14
+  - first:
+      213: 5087055314694911272
+    second: enemyextras_15
+  - first:
+      213: -2468175673116032550
+    second: enemyextras_16
+  - first:
+      213: -5100871976685588784
+    second: enemyextras_17
+  - first:
+      213: 1150875611763284508
+    second: enemyextras_18
+  - first:
+      213: 1535919248983886389
+    second: enemyextras_19
+  - first:
+      213: -5106983813739669661
+    second: enemyextras_20
+  - first:
+      213: -7268952164009935685
+    second: enemyextras_21
+  - first:
+      213: 3917509537710866100
+    second: enemyextras_22
+  - first:
+      213: -8684635066346945634
+    second: enemyextras_23
+  - first:
+      213: -3857611904879293436
+    second: enemyextras_24
+  - first:
+      213: -884319948092725564
+    second: enemyextras_25
+  - first:
+      213: -2476823260096241741
+    second: enemyextras_26
+  - first:
+      213: 3817763068751737574
+    second: enemyextras_27
+  - first:
+      213: 3842575185855399715
+    second: enemyextras_28
+  - first:
+      213: 7595797592508258873
+    second: enemyextras_29
+  - first:
+      213: -549335764750200595
+    second: enemyextras_30
+  - first:
+      213: 1180153058429059533
+    second: enemyextras_31
+  - first:
+      213: -3408858961651839138
+    second: enemyextras_32
+  - first:
+      213: -5788902580079952407
+    second: enemyextras_33
+  - first:
+      213: -6046729672893626550
+    second: enemyextras_34
+  - first:
+      213: 4796150768444979124
+    second: enemyextras_35
+  - first:
+      213: -3313803029999354207
+    second: enemyextras_36
+  - first:
+      213: 7790040232083926545
+    second: enemyextras_37
+  - first:
+      213: 5356778722671185298
+    second: enemyextras_38
+  - first:
+      213: -6466799925542704042
+    second: enemyextras_39
+  - first:
+      213: -5950469745867048254
+    second: enemyextras_40
+  - first:
+      213: 7994418183296722879
+    second: enemyextras_41
+  - first:
+      213: 8067376377488170703
+    second: enemyextras_42
+  - first:
+      213: 4343253405121428230
+    second: enemyextras_43
+  - first:
+      213: 7728601457361532190
+    second: enemyextras_44
+  - first:
+      213: -6192266525311083522
+    second: enemyextras_45
+  - first:
+      213: -2261314116569735847
+    second: enemyextras_46
+  - first:
+      213: 7100703974593365128
+    second: enemyextras_47
+  - first:
+      213: 6461768977498503965
+    second: enemyextras_48
+  - first:
+      213: -1705620222922543075
+    second: enemyextras_49
+  - first:
+      213: 6669802385371598655
+    second: enemyextras_50
+  - first:
+      213: -6661380745711453910
+    second: enemyextras_51
+  - first:
+      213: -8028492202804122940
+    second: enemyextras_52
+  - first:
+      213: 4122877234975541020
+    second: enemyextras_53
+  - first:
+      213: -925906970201095491
+    second: enemyextras_54
+  - first:
+      213: 8875560452629514966
+    second: enemyextras_55
+  - first:
+      213: -6200210176623034864
+    second: enemyextras_56
+  - first:
+      213: -3454294001828241802
+    second: enemyextras_57
+  - first:
+      213: 7283442810799504318
+    second: enemyextras_58
+  - first:
+      213: -7645647796236351496
+    second: enemyextras_59
+  - first:
+      213: -5887659707891348259
+    second: enemyextras_60
+  - first:
+      213: 7313340747444061651
+    second: enemyextras_61
+  - first:
+      213: -743225555564423356
+    second: enemyextras_62
+  - first:
+      213: -5280957089737887266
+    second: enemyextras_63
+  - first:
+      213: 3154245554915081816
+    second: enemyextras_64
+  - first:
+      213: 5043131584577786768
+    second: enemyextras_65
+  - first:
+      213: 6607085159007645573
+    second: enemyextras_66
+  - first:
+      213: 823997877430863398
+    second: enemyextras_67
+  - first:
+      213: -3863058747659829692
+    second: enemyextras_68
+  - first:
+      213: -7913015749696262233
+    second: enemyextras_69
+  - first:
+      213: -619830977142354114
+    second: enemyextras_70
+  - first:
+      213: -8443494644570974830
+    second: enemyextras_71
+  - first:
+      213: 18993987795349113
+    second: enemyextras_72
+  - first:
+      213: -4483431540746756717
+    second: enemyextras_73
+  - first:
+      213: -2156372226307501400
+    second: enemyextras_74
+  - first:
+      213: 8928551375791745106
+    second: enemyextras_75
+  - first:
+      213: -5338103623563043356
+    second: enemyextras_76
+  - first:
+      213: -4913351789274267445
+    second: enemyextras_77
+  - first:
+      213: 6918440606320390054
+    second: enemyextras_78
+  - first:
+      213: 1327066181613291052
+    second: enemyextras_79
+  - first:
+      213: -205323242159766772
+    second: enemyextras_80
+  - first:
+      213: 2092588505460086905
+    second: enemyextras_81
+  - first:
+      213: -8377272103546013906
+    second: enemyextras_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyextras_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 957
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c83a5ac3ede240800000000000000
+      internalID: 4822761234220237487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 951
+        width: 139
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964f2dea93906720800000000000000
+      internalID: 2837430058856957597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 951
+        width: 139
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e45bb745cb79a0800000000000000
+      internalID: -6234172347288065983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 966
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaec9c90aa65edf0800000000000000
+      internalID: -151597774392202584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 951
+        width: 185
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946900e020810ea0800000000000000
+      internalID: -5908300357447359329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 951
+        width: 199
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6806b6cc09ad3cd0800000000000000
+      internalID: -2576717539447535509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_6
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 957
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744fb64d0e468ed50800000000000000
+      internalID: 6766769356923466823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 850
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4430b42f9cf75c00800000000000000
+      internalID: 889457211874489421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 842
+        width: 723
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea013ceda8b5e6ec0800000000000000
+      internalID: -3571816802457284434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 850
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e7640c203fa370800000000000000
+      internalID: 8335934400896690662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 814
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcc26789e3f7aa0800000000000000
+      internalID: -6161136940680950961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 737
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d274e599135ed760800000000000000
+      internalID: 7484511000090407633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 757
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012ec32713b93b420800000000000000
+      internalID: 2644628042868908560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 757
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4889afe0618ea7b0800000000000000
+      internalID: -5211085465483376564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 746
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b6b8ebb6de2570800000000000000
+      internalID: 8443922453917774635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 757
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82537293bd9d89640800000000000000
+      internalID: 5087055314694911272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_16
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 757
+        width: 286
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad188a06d474fbdd0800000000000000
+      internalID: -2468175673116032550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 719
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de29e876ff0639b0800000000000000
+      internalID: -5100871976685588784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 713
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9fc3754bb8ff00800000000000000
+      internalID: 1150875611763284508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Hurt01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 578
+        width: 122
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8e575b6ea05510800000000000000
+      internalID: 1535919248983886389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 578
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367906487495029b0800000000000000
+      internalID: -5106983813739669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 578
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc71e6f48e7f1b90800000000000000
+      internalID: -7268952164009935685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 578
+        width: 91
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef57f2b2acd5630800000000000000
+      internalID: 3917509537710866100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 578
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934d7a9b6af97780800000000000000
+      internalID: -8684635066346945634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 578
+        width: 74
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0a583962077ac0800000000000000
+      internalID: -3857611904879293436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 578
+        width: 115
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6242a41b34ab3f0800000000000000
+      internalID: -884319948092725564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 576
+        width: 157
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd9822e5e80add0800000000000000
+      internalID: -2476823260096241741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dead
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 608
+        width: 106
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e27d8d984b6bf430800000000000000
+      internalID: 3817763068751737574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 670
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32744afc5c1935530800000000000000
+      internalID: 3842575185855399715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 495
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ad8378aa1b96960800000000000000
+      internalID: 7595797592508258873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 514
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de095af480e5068f0800000000000000
+      internalID: -549335764750200595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 513
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1414434feb06010800000000000000
+      internalID: 1180153058429059533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_32
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 506
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc555d5dc41b0d0800000000000000
+      internalID: -3408858961651839138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 518
+        width: 106
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edfdfa36cfa9afa0800000000000000
+      internalID: -5788902580079952407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_34
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 518
+        width: 219
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a478c524663b51ca0800000000000000
+      internalID: -6046729672893626550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 358
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7316a76b95f8240800000000000000
+      internalID: 4796150768444979124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae764593b10302d0800000000000000
+      internalID: -3313803029999354207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 347
+        width: 89
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e2d535158cb1c60800000000000000
+      internalID: 7790040232083926545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 344
+        width: 89
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dcf29edd9175a40800000000000000
+      internalID: 5356778722671185298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 344
+        width: 82
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2184fabf4146a0800000000000000
+      internalID: -6466799925542704042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 343
+        width: 90
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cab2e60b4fab6da0800000000000000
+      internalID: -5950469745867048254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 343
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb723514bf0e1fe60800000000000000
+      internalID: 7994418183296722879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 343
+        width: 93
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce5f81921415ff60800000000000000
+      internalID: 8067376377488170703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 342
+        width: 94
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb4cdd5f5564c30800000000000000
+      internalID: 4343253405121428230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 256
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b99cd312814b60800000000000000
+      internalID: 7728601457361532190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 107
+        width: 117
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5a4c3766a01aa0800000000000000
+      internalID: -6192266525311083522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd84cbac23e90e0800000000000000
+      internalID: -2261314116569735847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_47
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 311
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88487dcc4a4ca8260800000000000000
+      internalID: 7100703974593365128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 268
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bff6c26a0dca950800000000000000
+      internalID: 6461768977498503965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_49
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 107
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10bafaa17b6458e0800000000000000
+      internalID: -1705620222922543075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_50
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 282
+        width: 208
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f802e6ee5ef8c50800000000000000
+      internalID: 6669802385371598655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 277
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29fd3a51850e83a0800000000000000
+      internalID: -6661380745711453910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_52
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 106
+        width: 124
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caedd9d0e0159090800000000000000
+      internalID: -8028492202804122940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1703435007673930800000000000000
+      internalID: 4122877234975541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 240
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20b1a24848623f0800000000000000
+      internalID: -925906970201095491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 106
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dacc79f4335c2b70800000000000000
+      internalID: 8875560452629514966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 109
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3f99c1bd64f9a0800000000000000
+      internalID: -6200210176623034864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 107
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed34f28e1ef00d0800000000000000
+      internalID: -3454294001828241802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 109
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbb397a5acf31560800000000000000
+      internalID: 7283442810799504318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 109
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7859376d335e590800000000000000
+      internalID: -7645647796236351496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 109
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc81c890b4da4ea0800000000000000
+      internalID: -5887659707891348259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 121
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50bcc79a43e7560800000000000000
+      internalID: 7313340747444061651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 55
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44717948b488fa5f0800000000000000
+      internalID: -743225555564423356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 55
+        width: 119
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b710b18546b6b0800000000000000
+      internalID: -5280957089737887266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e711bce9126cb20800000000000000
+      internalID: 3154245554915081816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_65
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 66
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093df4ed47dccf540800000000000000
+      internalID: 5043131584577786768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 55
+        width: 121
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe76f32f411bb50800000000000000
+      internalID: 6607085159007645573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_67
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 55
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62641fb24bd6f6b00800000000000000
+      internalID: 823997877430863398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_68
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 55
+        width: 170
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e354f4988a36ac0800000000000000
+      internalID: -3863058747659829692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_69
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 55
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af6841c9125f2290800000000000000
+      internalID: -7913015749696262233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_70
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 55
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f85a2a20be567f0800000000000000
+      internalID: -619830977142354114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_71
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 55
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2951f673b5ea2da80800000000000000
+      internalID: -8443494644570974830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 14
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee8676eea734000800000000000000
+      internalID: 18993987795349113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd10794c6a7c1c0800000000000000
+      internalID: -4483431540746756717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a25c6792e60312e0800000000000000
+      internalID: -2156372226307501400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 13
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25864e8bb2698eb70800000000000000
+      internalID: 8928551375791745106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 18
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed9c4f690f3be5b0800000000000000
+      internalID: -5338103623563043356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 28
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc007c7649440dbb0800000000000000
+      internalID: -4913351789274267445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 17
+        width: 131
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6d53731d330060800000000000000
+      internalID: 6918440606320390054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_79
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 18
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c268e7c39afaa6210800000000000000
+      internalID: 1327066181613291052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_80
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 18
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038fee599b862df0800000000000000
+      internalID: -205323242159766772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_81
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 18
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9789301a82e5a0d10800000000000000
+      internalID: 2092588505460086905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyextras_82
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 12
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b9511863fdbb80800000000000000
+      internalID: -8377272103546013906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed840a534c8f9af45afba462de0b1141
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy_Dead: 3817763068751737574
+      Enemy_Hurt01: 1535919248983886389
+      enemyextras_0: 4822761234220237487
+      enemyextras_1: 2837430058856957597
+      enemyextras_10: -6161136940680950961
+      enemyextras_11: 7484511000090407633
+      enemyextras_12: 2644628042868908560
+      enemyextras_13: -5211085465483376564
+      enemyextras_14: 8443922453917774635
+      enemyextras_15: 5087055314694911272
+      enemyextras_16: -2468175673116032550
+      enemyextras_17: -5100871976685588784
+      enemyextras_18: 1150875611763284508
+      enemyextras_2: -6234172347288065983
+      enemyextras_20: -5106983813739669661
+      enemyextras_21: -7268952164009935685
+      enemyextras_22: 3917509537710866100
+      enemyextras_23: -8684635066346945634
+      enemyextras_24: -3857611904879293436
+      enemyextras_25: -884319948092725564
+      enemyextras_26: -2476823260096241741
+      enemyextras_28: 3842575185855399715
+      enemyextras_29: 7595797592508258873
+      enemyextras_3: -151597774392202584
+      enemyextras_30: -549335764750200595
+      enemyextras_31: 1180153058429059533
+      enemyextras_32: -3408858961651839138
+      enemyextras_33: -5788902580079952407
+      enemyextras_34: -6046729672893626550
+      enemyextras_35: 4796150768444979124
+      enemyextras_36: -3313803029999354207
+      enemyextras_37: 7790040232083926545
+      enemyextras_38: 5356778722671185298
+      enemyextras_39: -6466799925542704042
+      enemyextras_4: -5908300357447359329
+      enemyextras_40: -5950469745867048254
+      enemyextras_41: 7994418183296722879
+      enemyextras_42: 8067376377488170703
+      enemyextras_43: 4343253405121428230
+      enemyextras_44: 7728601457361532190
+      enemyextras_45: -6192266525311083522
+      enemyextras_46: -2261314116569735847
+      enemyextras_47: 7100703974593365128
+      enemyextras_48: 6461768977498503965
+      enemyextras_49: -1705620222922543075
+      enemyextras_5: -2576717539447535509
+      enemyextras_50: 6669802385371598655
+      enemyextras_51: -6661380745711453910
+      enemyextras_52: -8028492202804122940
+      enemyextras_53: 4122877234975541020
+      enemyextras_54: -925906970201095491
+      enemyextras_55: 8875560452629514966
+      enemyextras_56: -6200210176623034864
+      enemyextras_57: -3454294001828241802
+      enemyextras_58: 7283442810799504318
+      enemyextras_59: -7645647796236351496
+      enemyextras_6: 6766769356923466823
+      enemyextras_60: -5887659707891348259
+      enemyextras_61: 7313340747444061651
+      enemyextras_62: -743225555564423356
+      enemyextras_63: -5280957089737887266
+      enemyextras_64: 3154245554915081816
+      enemyextras_65: 5043131584577786768
+      enemyextras_66: 6607085159007645573
+      enemyextras_67: 823997877430863398
+      enemyextras_68: -3863058747659829692
+      enemyextras_69: -7913015749696262233
+      enemyextras_7: 889457211874489421
+      enemyextras_70: -619830977142354114
+      enemyextras_71: -8443494644570974830
+      enemyextras_72: 18993987795349113
+      enemyextras_73: -4483431540746756717
+      enemyextras_74: -2156372226307501400
+      enemyextras_75: 8928551375791745106
+      enemyextras_76: -5338103623563043356
+      enemyextras_77: -4913351789274267445
+      enemyextras_78: 6918440606320390054
+      enemyextras_79: 1327066181613291052
+      enemyextras_8: -3571816802457284434
+      enemyextras_80: -205323242159766772
+      enemyextras_81: 2092588505460086905
+      enemyextras_82: -8377272103546013906
+      enemyextras_9: 8335934400896690662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
